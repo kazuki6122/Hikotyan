@@ -1620,3 +1620,15 @@ iframe {
   text-align: center;
   margin-bottom: 50px;
 }
+
+.w3-justify {
+  text-align: center;
+}
+
+#contactBox {
+  display: flex;
+}
+
+#contactBox > span {
+  margin: auto;
+}
